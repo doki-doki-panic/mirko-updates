@@ -1,0 +1,29 @@
+name: Update
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    name: Update books
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: npm-${{ hashFiles('package-lock.json') }}
+          restore-keys: npm-
+      - name: Build
+        run: npm install
+      - name: Git setup
+        run: |
+          git config user.name ${{ secrets.USERNAME }}
+          git config user.email ${{ secrets.EMAIL }}
+          chmod +x ./scripts/commit.sh
+      - name: Run script
+        env:
+          myToken: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run start
