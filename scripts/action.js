@@ -74,7 +74,9 @@ const getReleaseBody = (books) => {
   let totalLines = 0;
   let extraLineCount = 0;
   for (const book of books) {
-    const lineItems = [`- "${book.shortTitle}"`];
+    const lineItems = [
+      `- ["${book.shortTitle}"](https://elaenutus.mirko.ee/et/publication/${book.id})`,
+    ];
     if (book.shortAuthor) {
       lineItems.push(` - ${book.shortAuthor}`);
     }
