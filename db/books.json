@@ -28784,5 +28784,45 @@
     "shortTitle": "Mängus võidab vaid üks",
     "publishYear": "2021",
     "dateAdded": 1705321151523
+  },
+  {
+    "id": "1eef5630-2eb6-ee11-bea0-000d3a2b6a8c",
+    "sierraId": "5568978",
+    "shortAuthor": "Cavanagh, Steve, pseudonüüm, autor",
+    "shortTitle": "KO1MT3IST",
+    "publishYear": "2023",
+    "dateAdded": 1705666714361
+  },
+  {
+    "id": "33ef5630-2eb6-ee11-bea0-000d3a2b6a8c",
+    "sierraId": "5572006",
+    "shortAuthor": "McKenna, Clara, autor",
+    "shortTitle": "Mõrv Keyhaveni lossis",
+    "publishYear": "2023",
+    "dateAdded": 1705666714361
+  },
+  {
+    "id": "a15327af-0af3-ed11-907c-000d3a240789",
+    "sierraId": "5523591",
+    "shortAuthor": "May, Nicola, autor",
+    "shortTitle": "Väike külaturg. Tähistaevas",
+    "publishYear": "2022",
+    "dateAdded": 1705666714361
+  },
+  {
+    "id": "965327af-0af3-ed11-907c-000d3a240789",
+    "sierraId": "5524950",
+    "shortAuthor": "Kepler, Lars, pseudonüüm, autor",
+    "shortTitle": "Ämblik : kriminaalromaan",
+    "publishYear": "2022",
+    "dateAdded": 1705666714361
+  },
+  {
+    "id": "ebdd1e4b-0798-ed11-9d7a-6045bd8891bf",
+    "sierraId": "5349812",
+    "shortAuthor": "Brown, Alex, autor",
+    "shortTitle": "Postkaart Itaaliast",
+    "publishYear": "2020",
+    "dateAdded": 1705666714361
   }
 ]
