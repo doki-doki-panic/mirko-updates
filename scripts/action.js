@@ -75,7 +75,7 @@ const getReleaseBody = (books) => {
   let extraLineCount = 0;
   for (const book of books) {
     const lineItems = [
-      `- ["${book.shortTitle}"](https://elaenutus.mirko.ee/et/publication/${book.id})`,
+      `- <a rel="noreferrer noopener" href="https://elaenutus.mirko.ee/et/publication/${book.id}" target="_blank">${book.shortTitle}</a>`,
     ];
     if (book.shortAuthor) {
       lineItems.push(` - ${book.shortAuthor}`);
