@@ -30150,5 +30150,21 @@
     "shortTitle": "Täiskasvanud",
     "publishYear": "2023",
     "dateAdded": 1714652334963
+  },
+  {
+    "id": "aee9d450-9b00-ef11-aaf0-000d3a2f613f",
+    "sierraId": "5657137",
+    "shortAuthor": "Treier, Märt, autor",
+    "shortTitle": "Ennäe inimest!",
+    "publishYear": "2024",
+    "dateAdded": 1714716826914
+  },
+  {
+    "id": "c6e9d450-9b00-ef11-aaf0-000d3a2f613f",
+    "sierraId": "5645427",
+    "shortAuthor": "Chapman, Julia, pseudonüüm, autor",
+    "shortTitle": "Kohtamine kurjusega",
+    "publishYear": "2023",
+    "dateAdded": 1714716826914
   }
 ]
