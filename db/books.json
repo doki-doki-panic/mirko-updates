@@ -30925,5 +30925,37 @@
     "shortTitle": "Karulinn",
     "publishYear": "2021",
     "dateAdded": 1717417212480
+  },
+  {
+    "id": "383b1606-cf1c-ef11-86d2-000d3a241bcd",
+    "sierraId": "5669446",
+    "shortAuthor": "Lagercrantz, David, autor",
+    "shortTitle": "Memoria",
+    "publishYear": "2024",
+    "dateAdded": 1717503588108
+  },
+  {
+    "id": "3a3b1606-cf1c-ef11-86d2-000d3a241bcd",
+    "sierraId": "5683016",
+    "shortAuthor": "Murgo, Antonia, autor",
+    "shortTitle": "Miss Detsember ja Kuu Klann",
+    "publishYear": "2024",
+    "dateAdded": 1717503588108
+  },
+  {
+    "id": "a1088d0c-9ba7-ed11-994c-000d3a2dc43b",
+    "sierraId": "5403957",
+    "shortAuthor": "Vaher, Margus, autor",
+    "shortTitle": "Aga miks mehed sellised on?",
+    "publishYear": "2021",
+    "dateAdded": 1717503588108
+  },
+  {
+    "id": "a43a8e6b-670e-ee11-907d-000d3a25eebc",
+    "sierraId": "5451815",
+    "shortAuthor": "Ghulam, Nadia, autor",
+    "shortTitle": "Minu turbani saladus",
+    "publishYear": "2021",
+    "dateAdded": 1717503588108
   }
 ]
