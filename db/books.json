@@ -32307,5 +32307,37 @@
     "shortTitle": "Tõe nimel",
     "publishYear": "2023",
     "dateAdded": 1729016366334
+  },
+  {
+    "id": "fe8ce29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5677936",
+    "shortAuthor": "Walker, Martin",
+    "shortTitle": "Patriarh",
+    "publishYear": "2024",
+    "dateAdded": 1729189084900
+  },
+  {
+    "id": "228de29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5567464",
+    "shortAuthor": "Hazelwood, Ali",
+    "shortTitle": "Armastuse keemia",
+    "publishYear": "2023",
+    "dateAdded": 1729189084900
+  },
+  {
+    "id": "ed8ce29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5671609",
+    "shortAuthor": "Läckberg, Camilla",
+    "shortTitle": "Sekt",
+    "publishYear": "2023",
+    "dateAdded": 1729189084900
+  },
+  {
+    "id": "138de29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5569322",
+    "shortAuthor": "Marklund, Liza",
+    "shortTitle": "Soo",
+    "publishYear": "2023",
+    "dateAdded": 1729189084900
   }
 ]
