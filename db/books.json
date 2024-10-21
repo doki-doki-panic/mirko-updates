@@ -32339,5 +32339,45 @@
     "shortTitle": "Soo",
     "publishYear": "2023",
     "dateAdded": 1729189084900
+  },
+  {
+    "id": "008de29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5677932",
+    "shortAuthor": "Shakespeare, William",
+    "shortTitle": "Romeo ja Julia",
+    "publishYear": "2024",
+    "dateAdded": 1729513773846
+  },
+  {
+    "id": "ec8ce29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5692672",
+    "shortAuthor": "Jansson, Anna",
+    "shortTitle": "Surmanimekiri",
+    "publishYear": "2024",
+    "dateAdded": 1729513773846
+  },
+  {
+    "id": "248de29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5685072",
+    "shortAuthor": "Costello, Matthew",
+    "shortTitle": "Varaste vandenõu",
+    "publishYear": "2024",
+    "dateAdded": 1729513773846
+  },
+  {
+    "id": "208de29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5560186",
+    "shortAuthor": "Simenon, Georges",
+    "shortTitle": "Maigret ja tapja",
+    "publishYear": "2023",
+    "dateAdded": 1729513773846
+  },
+  {
+    "id": "148de29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5569704",
+    "shortAuthor": "May, Nicola",
+    "shortTitle": "Tööpesa",
+    "publishYear": "2023",
+    "dateAdded": 1729513773846
   }
 ]
