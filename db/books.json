@@ -32379,5 +32379,29 @@
     "shortTitle": "Tööpesa",
     "publishYear": "2023",
     "dateAdded": 1729513773846
+  },
+  {
+    "id": "268de29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5685201",
+    "shortAuthor": "Griffiths, Elly",
+    "shortTitle": "Naine sinises",
+    "publishYear": "2024",
+    "dateAdded": 1729600135118
+  },
+  {
+    "id": "f38ce29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5567458",
+    "shortAuthor": "Bryndza, Robert",
+    "shortTitle": "Kuratlik rada",
+    "publishYear": "2023",
+    "dateAdded": 1729600135118
+  },
+  {
+    "id": "0f8de29e-8676-ef11-9c35-000d3a3a59cc",
+    "sierraId": "5562448",
+    "shortAuthor": "Leon, Donna",
+    "shortTitle": "Läbi klaasi",
+    "publishYear": "2023",
+    "dateAdded": 1729600135118
   }
 ]
